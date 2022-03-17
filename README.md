@@ -22,7 +22,7 @@ We will automate configuration of ACI’s logical constructs i.e. Tenant, Bridge
 5. GitHub account to host your Terraform code.
 
 Link to GitHub Repo
-<https://github.com/majidstd/ACI-Terraform.git>
+<https://github.com/bay-infotech/ACI-Terraform.git>
 
 ## Steps to Deploy Use Case
 
